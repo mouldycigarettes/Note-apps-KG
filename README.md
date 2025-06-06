@@ -1,11 +1,10 @@
-# Aplikasi-catatan-sederhana-Bootcamp-KG
-
+# Simple Notes App
 
 ---
 
-# Aplikasi Catatan Sederhana
+# Simple Notes App
 
-Aplikasi Catatan Sederhana adalah aplikasi Flutter dasar yang memungkinkan Anda untuk membuat, melihat, mengedit, dan menghapus catatan. Data catatan disimpan secara lokal di perangkat Anda menggunakan `shared_preferences`.
+Simple Notes App adalah aplikasi Flutter dasar yang memungkinkan Anda untuk membuat, melihat, mengedit, dan menghapus catatan. Data catatan disimpan secara lokal di perangkat Anda menggunakan `shared_preferences`.
 
 ---
 
