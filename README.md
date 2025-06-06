@@ -24,8 +24,8 @@ Pastikan Anda telah menginstal yang berikut:
 
 1.  **Klon Repositori** (jika aplikasi Anda berada di repositori Git):
     ```bash
-    git clone https://github.com/mouldycigarettes/Aplikasi-catatan-sederhana-Bootcamp-KG-.git
-    cd Aplikasi-catatan-sederhana-Bootcamp-KG-
+    git clone https://github.com/mouldycigarettes/Note-apps-KG.git
+    cd Note-apps-KG
     ```
     Jika Anda hanya memiliki file-nya, cukup letakkan semua file dalam satu folder proyek.
 
